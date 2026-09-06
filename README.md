@@ -1,5 +1,5 @@
 # Ecommerce-Sales-insights-Dashboard-excel-
-This project contains an interactive Excel dashboard designed to analyze ecommerce sales performance and key business metrics. It helps in tracking trends, comparing categories, and generating actionable insights through visual analytics.
+**This project contains an interactive Excel dashboard designed to analyze ecommerce sales performance and key business metrics. It helps in tracking trends, comparing categories, and generating actionable insights through visual analytics.**
 ---
 ## Interactive Ecommerce-Sales-Analysis-Dashboard
 <img width="1853" height="877" alt="Dashboard_image" src="https://github.com/deepak200422/Ecommerce-Sales-insights-Dashboard-excel-/blob/main/Dashboard_image.png" />
@@ -51,7 +51,7 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 
 ## Author
 
-👩‍💻 *Anamika Musyuni*     
+👩‍💻 *Deepak chauhan*     
 🔗 GitHub: [anamikamusyuni05](https://github.com/anamikamusyuni05)
 
 ⭐ If you found this project interesting, feel free to explore and give feedback.
