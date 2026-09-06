@@ -52,7 +52,7 @@
 ## Author
 
 👩‍💻 *Deepak chauhan*     
-🔗 GitHub: [anamikamusyuni05](https://github.com/anamikamusyuni05)
+🔗 GitHub: [Deepak_chauhan](https://github.com/)
 
 ⭐ If you found this project interesting, feel free to explore and give feedback.
 - Category-wise Sales Share  
